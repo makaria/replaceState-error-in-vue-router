@@ -60,7 +60,7 @@ module.exports = function (ctx) {
 
     build: {
       scopeHoisting: true,
-      vueRouterMode: 'history',
+      // vueRouterMode: 'history',
       publicPath: process.env.CDN_PATH,
       // vueCompiler: true,
       // gzip: true,
